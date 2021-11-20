@@ -11,3 +11,5 @@ setInterval(() => {
   console.log("Iam lazzyyy");
 }, 2000);
 console.log(5555);
+
+// ctrl c to stop terminal execution
